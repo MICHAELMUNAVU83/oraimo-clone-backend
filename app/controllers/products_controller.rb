@@ -1,6 +1,6 @@
 class ProductsController < ApplicationController
     def index
-        @products = Product.all
+        @products = Product.all.limit(16)
         render json: @products
     end
     def products_display
