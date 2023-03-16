@@ -191,8 +191,8 @@ products = Product.create([
         star_rating: 5
     },
     {
-        image:"oraimo SmartDent Pro Powerful Ultrasonic Motor Electric Toothbrush Kit with 5 Modes & 3 Speeds",
-        name:"oraimo SmartMirror High Texture Smart Desktop Makeup Mirror with Light", 
+        image:"https://res.cloudinary.com/dakiak4mc/image/upload/v1678947995/opc-et6-680-1_zysye9.jpg",
+        name:"oraimo SmartDent Pro Powerful Ultrasonic Motor Electric Toothbrush Kit with 5 Modes & 3 Speeds", 
         reviews: 150,
         initial_price: 6000,
         actual_price: 3600,
